@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+  <string name="yes">Jo</string>
+  <string name="no">Nee</string>
+  <string name="home">Doheem</string>
+  <!-- New -->
+  <!-- Array -->
+  <!-- UI -->
+  <!-- Theme -->
+  <!--Skin-->
+  <!--DirectorySortMode-->
+  <!--SortBy-->
+  <!--ListMode-->
+  <!--Folder-->
+  <string name="skip">Iwwersprangen</string>
+  <string name="other">Aner</string>
+  <string name="password">Passwuert</string>
+  <string name="defualt">Standard</string>
+  <string name="start_ftp">Start</string>
+  <!-- reference to file accessed date -->
+  <!-- reference to file modified date -->
+  <!-- reference to audio/video file -->
+    <!-- reference to a document file -->
+  <!-- %s will be replaced with either copied or moved -->
+  <!-- reference to - 'Written #bytes out of #bytes' in process viewer -->
+  <!-- reference to - 'Processing file # of #' in process viewer -->
+  <string name="permission_other">Aner</string>
+  <!-- Reference to 'email address can't be empty' or 'Invalid e-mail address' -->
+  <!-- references 'name/size/location/hash' copied to clipboard -->
+  <!-- references to 'Some files weren't successfully %s -->
+  <!--FROM HERE ON STRINGS ARE EXCLUSIVELY USED IN plurals.xml-->
+  <!-- end of plurals -->
+</resources>
